@@ -18,8 +18,10 @@ pip install Mnemonic
 
 ```Python
 from exdsdecode import ExodusWalletReader
+# default password for .seco
+Password = 'SSKLBMLuLo0U3JjyRtlGyaHAVNbCMH0zho2mrkiRcTo='
 w1 = ExodusWalletReader('wallets\\seed.seco')
-data = w1.decrypt('Password')
+data = w1.decrypt(Password)
 print(ExodusWalletReader.extract_mnemonic(data))
 
 ```
