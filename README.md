@@ -5,6 +5,10 @@
 
 The decode seed.seco file from Exodus crypto wallet via password and  extract mnemonic phrase (seed)
 
+## Youtube: 
+
+[![HOW TO DECODE?](https://i.ytimg.com/vi/l2u-0WFDsUY/hqdefault.jpg)](https://www.youtube.com/watch?v=l2u-0WFDsUY&pp=0gcJCb0Ag7Wk3p_U "How to decode vault data?")
+
 ## Installation
 Python requires [Python.org](https://www.python.org/) v3,7+ to run.
 Install the dependencies and devDependencies and start the server.
